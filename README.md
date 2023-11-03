@@ -67,7 +67,7 @@ cat "Домашние животные" "Вьючные животные" > Anim
 cat Animals
 mv "Animals" "Друзья человека"
 ```
-![](1.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/1.png)
 
 2.
 ```
@@ -77,7 +77,7 @@ ls
 cd folder_for_attestation/
 ls
 ```
-![](2.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/2.png)
 
 3.
 ```
@@ -86,10 +86,10 @@ sudo apt update
 sudo apt install mysql-server
 sudo service mysql status
 ```
-![](3.png)
-![](4.png)
-![](5.png)
-![](6.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/3.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/4.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/5.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/6.png)
 
 4.
 ```
@@ -97,7 +97,7 @@ wget http://ftp.us.debian.org/debian/pool/main/s/sl/sl_5.02-1_amd64.deb
 sudo dpkg -i sl_5.02-1_amd64.deb
 sudo dpkg -r sl
 ```
-![](7.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/7.png)
 
 5.
 ```
@@ -192,16 +192,16 @@ sudo dpkg -r sl
   774  history
 
 ```
-![](8.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/8.png)
 
 6.
-![](9.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/9.png)
 
 7.
 ```
 CREATE DATABASE Друзья_человека;
 ```
-![](10.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/10.png)
 
 8.
 ```
@@ -282,7 +282,7 @@ show databases;
 show tables;
 ```
 
-![](11.png)
+![](https://github.com/vadimvasilich/Specialization_FinalWork/blob/main/Source/11.png)
 
 9. 
 ```
